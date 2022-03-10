@@ -1,0 +1,27 @@
+[1mdiff --git a/meal-regimens.txt b/meal-regimens.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e1f5791[m
+[1m--- /dev/null[m
+[1m+++ b/meal-regimens.txt[m
+[36m@@ -0,0 +1,13 @@[m
+[32m+[m[32mManhattan Zoo[m
+[32m+[m[32mZookeeper Intern Onboarding:[m
+[32m+[m[32mMeal Guidelines[m
+[32m+[m
+[32m+[m[32m1. California Sea Lions[m
+[32m+[m[32mMeal: 40 lbs. salmon, 40 lbs. herring, 20 lbs. Northern Anchovy, 20 lbs. Octupus[m
+[32m+[m[32mTimes: 6:00 am, 9:00 am, 12:00 pm, 3:00 pm, 6:00 pm, 9:00 pm[m
+[32m+[m[32mDirections: Leave buckets for trainer at 12:00 pm and 3:00 pm, otherwise, follow standard protocol.[m
+[32m+[m
+[32m+[m[32m2. Ring-tailed Lemurs[m
+[32m+[m[32mMeal: 10 bags Tamarind pods[m
+[32m+[m[32mTimes: 6:00 am, 3:00 pm, 8:00 pm[m
+[32m+[m[32mDirections: Empty bags over meadow area during designated times[m
+\ No newline at end of file[m
+[1mdiff --git a/myzoo b/myzoo[m
+[1mnew file mode 160000[m
+[1mindex 0000000..584d753[m
+[1m--- /dev/null[m
+[1m+++ b/myzoo[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mSubproject commit 584d753af8714cf56bab6c69711e52319a7195e0[m
